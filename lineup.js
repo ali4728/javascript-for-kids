@@ -1,4 +1,9 @@
 
+// For practice;
+// This is a random lineup generator for the Cardinals;
+// It's really not very funny.
+// But it does what it's supposed to do.
+
 var randomFirsts = ["Matt Carpenter", "Kolten Wong", "Older David Eckstein"];
 var randomSeconds = ["Almedys Diaz", "Matthew Leach", "Brian Cobb"];
 var randomThirds = ["Beyonce", "Samantha Abrams", "That Guy at Glass Nickel"];
