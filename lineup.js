@@ -1,18 +1,18 @@
 
 // For practice;
-// This is a random lineup generator for the Cardinals;
+// This is a random lineup generator for the Cardinals (if the Cardinals had players from other teams and history);
 // It's really not very funny.
 // But it does what it's supposed to do.
 
-var randomFirsts = ["Matt Carpenter", "Kolten Wong", "Older David Eckstein"];
-var randomSeconds = ["Almedys Diaz", "Matthew Leach", "Brian Cobb"];
-var randomThirds = ["Beyonce", "Samantha Abrams", "That Guy at Glass Nickel"];
-var randomFourths = ["Matt Holliday", "Jhonny Peralta", "Johnny Peralta"];
+var randomFirsts = ["Matt Carpenter", "Kolten Wong", "Jedd Gyorko"];
+var randomSeconds = ["Almedys Diaz", "Matt Adams", "Robinson Cano"];
+var randomThirds = ["Albert Pujols", "Scott Rolen", "Anthony Rizzo"];
+var randomFourths = ["Matt Holliday", "Jhonny Peralta", "Jim Edmonds"];
 var randomFifths = ["Yadier Molina", "Jose Molina", "Benji Molina"];
 var randomSixths = ["Alex Rodriguez", "Alexander Hamilton", "Aaron Burr"];
 var randomSevenths = ["Mike Matheny", "Tony La Russa", "Brian's Dad"]
-var randomEighths = ["Do we have anyone left?", "Tommy Pham", "Stephen Piscotty"];
-var randomNinths = ["Adam Wainwright", "Roger Clemens", "Clayton Kershaw"];
+var randomEighths = ["Marquis de Lafayette", "Tommy Pham", "Stephen Piscotty"];
+var randomNinths = ["Adam Wainwright", "Taylor Goldsmith", "Clayton Kershaw"];
 
 var randomFirst = randomFirsts[Math.floor(Math.random() * 3)];
 var randomSecond = randomSeconds[Math.floor(Math.random() * 3)];
