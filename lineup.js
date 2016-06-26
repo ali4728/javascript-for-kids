@@ -26,4 +26,4 @@ var randomNinth = randomNinths[Math.floor(Math.random() * 3)];
 
 var randomLineup = randomFirst + ", " + randomSecond + ", " + randomThird + ", " + randomFourth + ", " + randomFifth + ", " + randomSixth + ", " + randomSeventh + ", " +  randomEighth + ", " + randomNinth;
 
-randomLineup;
+console.log(randomLineup);
